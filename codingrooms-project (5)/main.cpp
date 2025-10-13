@@ -1,8 +1,7 @@
 //******************************************************************************
-// PROGRAM : PROJECT 6 - HALFGAMMON UNDONE 
+// PROGRAM : HALFGAMMON UNDONE 
 // COURSE : CS 141 - PROGRAM DESIGN II
 // DAVINA TITUS 
-// UIN : 652284919 
 // DATE : 16TH APRIL 2025
 
 //DESPCRIPTION:
